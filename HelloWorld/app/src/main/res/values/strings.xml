@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TuesdayDemo</string>
+    <string name="question">What\'s your name?</string>
+    <string name="button_text">Press me</string>
+</resources>
